@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+.img {
+  height: 40px;
+  width: 40px;
+}
+
+.subtitle {
+  margin-left: 5px;
+  margin-bottom: 5px;
+  white-space: nowrap;
+}
