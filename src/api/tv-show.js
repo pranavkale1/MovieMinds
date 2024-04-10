@@ -1,5 +1,4 @@
 import axios from "axios";
-import { FAKE_POPULAR, recommendations } from "./fake_data";
 import { BASE_URL, API_KEY_PARAM } from "../config";
 
 // fetch most popular tv shows
