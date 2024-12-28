@@ -14,6 +14,7 @@ export function App() {
 
   async function fetchPopular() {
     try {
+      // TV show API
       const popularTVShow = await TVShowAPI.fetchPopular();
 
       if (popularTVShow.length > 0) {
