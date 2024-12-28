@@ -101,5 +101,4 @@ export function App() {
       </div>
     </div>
   );
-  // Hello
 }
